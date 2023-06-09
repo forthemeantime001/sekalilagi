@@ -1,0 +1,69 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">JamminBaru</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zero">0:00</string>
+    <string-array name="Judul">
+        <item>This Is Why</item>
+        <item>Aprroaching Storm</item>
+        <item>Goofy Phonk</item>
+        <item>A Thousand Years</item>
+        <item>Viva La Vida</item>
+        <item>Agoraphobic</item>
+        <item>Good Riddance</item>
+        <item>Ghost Rule</item>
+        <item>I Love You Too Much</item>
+        <item>Enemy</item>
+        <item>Glimpse Of Us</item>
+        <item>Dreamy Night</item>
+        <item>I Dont Love You</item>
+        <item>Im Glad Youre Evil Too</item>
+        <item>Creep</item>
+        <item>The Shade</item>
+        <item>Snap</item>
+        <item>Atlantis</item>
+        <item>Until I Found You</item>
+        <item>Anti-Hero</item>
+        <item>Unhappy Refrain</item>
+        <item>Pretender</item>
+    </string-array>
+    <string-array name="Band">
+        <item>Paramore</item>
+        <item>Bury The Light</item>
+        <item>Ariis</item>
+        <item>Christina Perri</item>
+        <item>Coldplay</item>
+        <item>Corpse</item>
+        <item>Darren Korb</item>
+        <item>DECO27</item>
+        <item>Diego Luna</item>
+        <item>Imagine Dragons</item>
+        <item>Joji</item>
+        <item>LilyPichu</item>
+        <item>My Chemical Romance</item>
+        <item>Pinocchiop</item>
+        <item>Radiohead</item>
+        <item>Rex Orange County</item>
+        <item>Rosa Linn</item>
+        <item>Seafret</item>
+        <item>Stephen Sanchez</item>
+        <item>Taylor Swift</item>
+        <item>Wowaka</item>
+        <item>Kobo Kanaeru</item>
+    </string-array>
+    <string-array name="URL">
+        <item>link1 </item>
+        <item> link2</item>
+        <item>link3</item>
+        <item>shorturl.at/nzCH6</item>
+        <item>shorturl.at/nzCH6</item>
+        <item>shorturl.at/nzCH6</item>
+        <item>shorturl.at/nzCH6</item>
+        <item>shorturl.at/nzCH6</item>
+        <item>shorturl.at/nzCH6</item>
+        <item>shorturl.at/nzCH6</item>
+    </string-array>
+
+    <string name="selectsong"><u>SELECT SONG</u></string>
+</resources>
